@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: 05440ca4a6ef8fe44a1e76cfa2eb9d27
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8444606154479118773
+    second: MedusaDeath_0
+  - first:
+      213: 4270963925866977114
+    second: MedusaDeath_1
+  - first:
+      213: 615175042968896478
+    second: MedusaDeath_2
+  - first:
+      213: -7921238222270317606
+    second: MedusaDeath_3
+  - first:
+      213: -1634842150665009924
+    second: MedusaDeath_4
+  - first:
+      213: 8108971280259722189
+    second: MedusaDeath_5
+  - first:
+      213: 2972678230130110592
+    second: MedusaDeath_6
+  - first:
+      213: 8207947411975158473
+    second: MedusaDeath_7
+  - first:
+      213: -1058503046889210473
+    second: MedusaDeath_8
+  - first:
+      213: -7166948131393240601
+    second: MedusaDeath_9
+  - first:
+      213: -1372700511647391889
+    second: MedusaDeath_10
+  - first:
+      213: -9095138780016898659
+    second: MedusaDeath_11
+  - first:
+      213: -4897267248468799892
+    second: MedusaDeath_12
+  - first:
+      213: 3359247701960050760
+    second: MedusaDeath_13
+  - first:
+      213: 6765355594840402399
+    second: MedusaDeath_14
+  - first:
+      213: 5094133679378412165
+    second: MedusaDeath_15
+  - first:
+      213: 7436989381235322490
+    second: MedusaDeath_16
+  - first:
+      213: 4261777817982096885
+    second: MedusaDeath_17
+  - first:
+      213: -1563151445773900566
+    second: MedusaDeath_18
+  - first:
+      213: 4435524724422652305
+    second: MedusaDeath_19
+  - first:
+      213: 7255722426344091282
+    second: MedusaDeath_20
+  - first:
+      213: 2661620423932135069
+    second: MedusaDeath_21
+  - first:
+      213: -4493559932891962071
+    second: MedusaDeath_22
+  - first:
+      213: -6365091955113627676
+    second: MedusaDeath_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 10
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MedusaDeath_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 55
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b92ec95e84413570800000000000000
+      internalID: 8444606154479118773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedusaDeath_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 88
+        width: 55
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a571fc1ef03854b30800000000000000
+      internalID: 4270963925866977114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedusaDeath_2
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 176
+        width: 56
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed3c8d6317a898800800000000000000
+      internalID: 615175042968896478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedusaDeath_3
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 88
+        width: 56
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adbb45c2ecb121290800000000000000
+      internalID: -7921238222270317606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedusaDeath_4
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 176
+        width: 56
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf4c6c9c9bfdf49e0800000000000000
+      internalID: -1634842150665009924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedusaDeath_5
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 88
+        width: 56
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcba9bd8a6ad88070800000000000000
+      internalID: 8108971280259722189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedusaDeath_6
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 176
+        width: 55
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0803172b913114920800000000000000
+      internalID: 2972678230130110592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedusaDeath_7
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 88
+        width: 55
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cabdd10fac78e170800000000000000
+      internalID: 8207947411975158473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedusaDeath_8
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 176
+        width: 54
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79dff7846117f41f0800000000000000
+      internalID: -1058503046889210473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedusaDeath_9
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 88
+        width: 54
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e108a885a2e98c90800000000000000
+      internalID: -7166948131393240601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedusaDeath_10
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 176
+        width: 54
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6f9244582033fce0800000000000000
+      internalID: -1372700511647391889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedusaDeath_11
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 88
+        width: 54
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9d863ab77397c180800000000000000
+      internalID: -9095138780016898659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedusaDeath_12
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 176
+        width: 55
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6eccd46269690cb0800000000000000
+      internalID: -4897267248468799892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedusaDeath_13
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 88
+        width: 55
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84840e3acf17e9e20800000000000000
+      internalID: 3359247701960050760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedusaDeath_14
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 176
+        width: 56
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd9e9a1b11f53ed50800000000000000
+      internalID: 6765355594840402399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedusaDeath_15
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 88
+        width: 56
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58234bd679ff1b640800000000000000
+      internalID: 5094133679378412165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedusaDeath_16
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0
+        width: 55
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7e22ea707e753760800000000000000
+      internalID: 7436989381235322490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedusaDeath_17
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 0
+        width: 47
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f556787850e42b30800000000000000
+      internalID: 4261777817982096885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedusaDeath_18
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 0
+        width: 47
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae42280ca029e4ae0800000000000000
+      internalID: -1563151445773900566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedusaDeath_19
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 0
+        width: 55
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 191bca78c362e8d30800000000000000
+      internalID: 4435524724422652305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedusaDeath_20
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 0
+        width: 48
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29e2313ba1181b460800000000000000
+      internalID: 7255722426344091282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedusaDeath_21
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 0
+        width: 49
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9646677ca9ffe420800000000000000
+      internalID: 2661620423932135069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedusaDeath_22
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 0
+        width: 49
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 925eb078c0ba3a1c0800000000000000
+      internalID: -4493559932891962071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MedusaDeath_23
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 0
+        width: 50
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ef61cc2796aaa7a0800000000000000
+      internalID: -6365091955113627676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      MedusaDeath_0: 8444606154479118773
+      MedusaDeath_1: 4270963925866977114
+      MedusaDeath_10: -1372700511647391889
+      MedusaDeath_11: -9095138780016898659
+      MedusaDeath_12: -4897267248468799892
+      MedusaDeath_13: 3359247701960050760
+      MedusaDeath_14: 6765355594840402399
+      MedusaDeath_15: 5094133679378412165
+      MedusaDeath_16: 7436989381235322490
+      MedusaDeath_17: 4261777817982096885
+      MedusaDeath_18: -1563151445773900566
+      MedusaDeath_19: 4435524724422652305
+      MedusaDeath_2: 615175042968896478
+      MedusaDeath_20: 7255722426344091282
+      MedusaDeath_21: 2661620423932135069
+      MedusaDeath_22: -4493559932891962071
+      MedusaDeath_23: -6365091955113627676
+      MedusaDeath_3: -7921238222270317606
+      MedusaDeath_4: -1634842150665009924
+      MedusaDeath_5: 8108971280259722189
+      MedusaDeath_6: 2972678230130110592
+      MedusaDeath_7: 8207947411975158473
+      MedusaDeath_8: -1058503046889210473
+      MedusaDeath_9: -7166948131393240601
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
