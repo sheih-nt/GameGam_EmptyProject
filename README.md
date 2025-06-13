@@ -1,1 +1,1 @@
-# GameGam_EmptyProjectхуй
+# GameGam_EmptyProject
