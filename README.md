@@ -7,7 +7,7 @@
 
 ## Запуск
 Гайд на ютуб `https://www.youtube.com/live/I9QK_2QW9W8`
-s
+
 1. Клонирование репозитория
 
 ```bash
